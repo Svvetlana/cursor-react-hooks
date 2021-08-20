@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cursor-react-hooks/static/css/main.54c24c11.chunk.css",
+    "main.js": "/cursor-react-hooks/static/js/main.1814ef12.chunk.js",
+    "main.js.map": "/cursor-react-hooks/static/js/main.1814ef12.chunk.js.map",
+    "runtime-main.js": "/cursor-react-hooks/static/js/runtime-main.f04c0324.js",
+    "runtime-main.js.map": "/cursor-react-hooks/static/js/runtime-main.f04c0324.js.map",
+    "static/js/2.00502e8a.chunk.js": "/cursor-react-hooks/static/js/2.00502e8a.chunk.js",
+    "static/js/2.00502e8a.chunk.js.map": "/cursor-react-hooks/static/js/2.00502e8a.chunk.js.map",
+    "static/js/3.40aa515d.chunk.js": "/cursor-react-hooks/static/js/3.40aa515d.chunk.js",
+    "static/js/3.40aa515d.chunk.js.map": "/cursor-react-hooks/static/js/3.40aa515d.chunk.js.map",
+    "index.html": "/cursor-react-hooks/index.html",
+    "static/css/main.54c24c11.chunk.css.map": "/cursor-react-hooks/static/css/main.54c24c11.chunk.css.map",
+    "static/js/2.00502e8a.chunk.js.LICENSE.txt": "/cursor-react-hooks/static/js/2.00502e8a.chunk.js.LICENSE.txt",
+    "static/media/anonym.904f2b4f.png": "/cursor-react-hooks/static/media/anonym.904f2b4f.png",
+    "static/media/phone.7943f54a.png": "/cursor-react-hooks/static/media/phone.7943f54a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f04c0324.js",
+    "static/js/2.00502e8a.chunk.js",
+    "static/css/main.54c24c11.chunk.css",
+    "static/js/main.1814ef12.chunk.js"
+  ]
+}
